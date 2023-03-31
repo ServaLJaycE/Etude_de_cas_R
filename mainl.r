@@ -192,6 +192,12 @@ test_b100
 test_b200 <- t.test(echantillon200, alternative="greater", mu=10, conf.level=0.95)
 test_b200
 
+#2.2 question 11
+#faire un text de comparaison de deux moyennes pour savoir si les moyennes des deux serveurs sont les memes
+t.test(echantillonn20, echantillon20, alternative="two.sided", conf.level=0.95)
+
+
+
 
 
 
