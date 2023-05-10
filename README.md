@@ -6,9 +6,6 @@
  
  
  Membre du groupe : 
- 
  -DOCEUL Logan
- 
  -SEMENS Evann
- 
  -PAQUIN Tessa
